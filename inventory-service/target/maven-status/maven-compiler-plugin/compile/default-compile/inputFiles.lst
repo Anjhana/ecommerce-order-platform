@@ -1,0 +1,7 @@
+/Users/navaneeth/Anjhana/interviewprep/portfolio_projects/anjhana_portfolio_projects/ecommerce-order-platform/inventory-service/src/main/java/com/anjhana/InventoryServiceApplication.java
+/Users/navaneeth/Anjhana/interviewprep/portfolio_projects/anjhana_portfolio_projects/ecommerce-order-platform/inventory-service/src/main/java/com/anjhana/config/KafkaConfig.java
+/Users/navaneeth/Anjhana/interviewprep/portfolio_projects/anjhana_portfolio_projects/ecommerce-order-platform/inventory-service/src/main/java/com/anjhana/controller/InventoryController.java
+/Users/navaneeth/Anjhana/interviewprep/portfolio_projects/anjhana_portfolio_projects/ecommerce-order-platform/inventory-service/src/main/java/com/anjhana/events/OrderEvents.java
+/Users/navaneeth/Anjhana/interviewprep/portfolio_projects/anjhana_portfolio_projects/ecommerce-order-platform/inventory-service/src/main/java/com/anjhana/model/InventoryItem.java
+/Users/navaneeth/Anjhana/interviewprep/portfolio_projects/anjhana_portfolio_projects/ecommerce-order-platform/inventory-service/src/main/java/com/anjhana/repository/InventoryRepository.java
+/Users/navaneeth/Anjhana/interviewprep/portfolio_projects/anjhana_portfolio_projects/ecommerce-order-platform/inventory-service/src/main/java/com/anjhana/service/InventoryService.java
